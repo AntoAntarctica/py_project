@@ -1,2 +1,2 @@
 from funcs import subtract_numbers
-add_numbers()
+subtract_numbers()
